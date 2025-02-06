@@ -38,6 +38,6 @@ Alternatively, you can use the provided Python script to generate the PDF automa
 
 If you find this resource helpful, please cite the original **CSEDU 2025** paper:
 
-> **Dai, T., et al.** (2025). *A Preliminary Investigation into Theory-Practice Barriers in Sino-New Zealand Undergraduate Computing Education.* Proceedings of the International Conference on Computer Supported Education (CSEDU 2025).  
+> **Dai, Fei., et al.** (2025). *A Preliminary Investigation into Theory-Practice Barriers in Sino-New Zealand Undergraduate Computing Education.* Proceedings of the International Conference on Computer Supported Education (CSEDU 2025).  
 
 
